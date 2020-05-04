@@ -1,0 +1,5 @@
+<manifest>
+<remote name="gnu" fetch="git://gcc.gnu.org/git"/>
+<default sync-j="4"/>
+<project name="gcc" remote="gnu" revision="c8913260b0756f977ab5e6e6392c51a83657fffc" path="."/>
+</manifest>
